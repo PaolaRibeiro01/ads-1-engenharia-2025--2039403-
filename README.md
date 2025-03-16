@@ -140,6 +140,7 @@ Ao se basear nesses pilares, os gestores que pretendem utilizar o Kanban consegu
 XP é um conjunto de práticas de engenharia. Os desenvolvedores precisam ir além de suas capacidades ao executar essas práticas. É daí que vem o "extremo" no título da estrutura. Para entender melhor essas práticas, começaremos descrevendo o ciclo de vida do XP e as funções envolvidas no processo.
 
 **O processo e os papéis da programação extrema**
+
 A estrutura XP normalmente envolve 5 fases ou estágios do processo de desenvolvimento que iteram continuamente:
 
 **1 -** `O planejamento`, o primeiro estágio, é quando o cliente encontra a equipe de desenvolvimento e apresenta os requisitos na forma de histórias de usuário para descrever o resultado desejado. A equipe então estima as histórias e cria um plano de lançamento dividido em iterações necessárias para cobrir a funcionalidade necessária, parte por parte. Se uma ou mais histórias não puderem ser estimadas, os chamados picos podem ser introduzidos, o que significa que mais pesquisas são necessárias.
